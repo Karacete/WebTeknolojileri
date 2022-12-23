@@ -1,46 +1,19 @@
-body{
-    background-image:url("https://icdn.tgrthaber.com.tr/crop/360x200/static/haberler/22-12/13/adsiz-tasarim-2022-12-13t132532323.jpg");
-}
-
 
 h1{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 70px;
-    margin-top: 300px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 table{
-    backdrop-filter: blur(50px);
-    position:fixed;
-    font-family: 'Courier New', Courier, monospace;
-    list-style-type: none;
-    text-align: center;
-    left:750px;
-}
-td a{
-    text-decoration: none;
-    border:5px solid;
-    color:black;
-    font-size: 60px;
+    margin-left: 145px;
 }
 #iletisim{
-    backdrop-filter: blur(20px);
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: none;
     position: fixed;
-    top: 40px;
-    right: 15px;
-    text-align: right;
-    font-size: 25px;
-}
-#harita{
-    backdrop-filter: blur(20px);
-    color:indigo;
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: none;
-    position: fixed;
-    top: 40px;
-    right: 150px;
-    text-align: right;
-    font-size: 25px;
+    top: 5px;
+    right: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
 }
